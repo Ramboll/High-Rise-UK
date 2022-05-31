@@ -1,3 +1,3 @@
 # High-Rise-UK
 This repository 
-![GitHub Logo](/images/logo.png)
+![Tux, the Linux mascot](Structures/Modular_Truss/Truss_Diagram.jpg)
