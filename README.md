@@ -11,4 +11,4 @@ This repository contains various resuable bits of grasshopper scripts and compon
 5. If you find irregularities or want to add to the repository create a branch and push changes and make a PR
 6. For any addition please do not forget to update the readme file and keep the commit messages descriptive
 
-## * Please only commit gh,ghx,md files on the repo and do not internalise anything in the files 
+#### * Please only commit gh,ghx,md files on the repo and do not internalise anything in the files 
