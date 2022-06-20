@@ -1,5 +1,5 @@
 # Custom components
-### Center_rectangle:
+1. Center_rectangle:
 Creates a centered rectangle 
 ### Retrieve_branch_by_index:
 Reterieves a branch in a tree by its index number instead of path 
