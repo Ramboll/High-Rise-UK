@@ -1,7 +1,7 @@
 # Structures
-## 1. Grid on Polygonal boundary 
+## 1. Grid_on_Polygonal_boundary 
 This template creates a orthogonal grid aligned to the chosen side of the polygon. 
-## 2. Modular truss
+## 2. Modular_truss
 This template creates a modular truss based off of a sandard size of the roof when there are several roofs involved. 
 ## 3. Karamba_Basic_setup
 This template creates a basic Karamba setup to develop it further.
