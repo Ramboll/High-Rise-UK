@@ -1,5 +1,5 @@
 # High-Rise-UK
-This repository contains various resuable bits of grasshopper scripts and components developed for the various disciplines of the RUK Highrises team 
+This repository contains various resuable grasshopper scripts and components developed for the various disciplines of the RUK Highrises team 
 
 #### For structuring of the repository please see the image github protocols in the General folder  
 
