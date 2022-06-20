@@ -10,3 +10,4 @@ This repository contains various resuable bits of grasshopper scripts and compon
 4. Alternatively use Github desktop to clone the repository 
 5. Regularly pull changes from the repositry for updates
 6. If you find irregularities or want to add to the repository create a branch and push changes and make a PR
+7. For any addition please do not forget to update the readme file and keep the commit messages descriptive
